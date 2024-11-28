@@ -35,7 +35,7 @@ class MusicPlayer {
     async loadCollections() {
         try {
             // 获取合集列表
-            const collections = ['2022']; // 修改为实际的合集名称
+            const collections = ['2022', ]; // 这里硬编码你的合集名称
             
             for (const collection of collections) {
                 const response = await fetch(`data/${collection}/songs.json`);
@@ -43,10 +43,6 @@ class MusicPlayer {
                     const data = await response.json();
                     this.collections[collection] = data.songs;
                     this.createCollectionElement(collection);
-                    // 自动选择第一个合集
-                    if (!this.currentCollection) {
-                        this.selectCollection(collection);
-                    }
                 }
             }
         } catch (error) {
