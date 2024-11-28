@@ -161,3 +161,39 @@ h3 {
 .button-active {
     color: #1db954;
 }
+
+.search-container {
+    display: flex;
+    gap: 10px;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+#search-input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+    outline: none;
+}
+
+#search-input:focus {
+    border-color: #666;
+}
+
+#search-button {
+    padding: 10px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#search-button:hover {
+    background-color: #45a049;
+}
