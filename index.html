@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>音乐播放器</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>音乐合集</h2>
+            <div id="collections-list"></div>
+        </div>
+        <div class="main-content">
+            <div class="now-playing">
+                <img id="album-cover" src="data/default-album.jpg" alt="专辑封面">
+                <div class="song-info">
+                    <h3 id="current-song">未选择歌曲</h3>
+                    <p id="current-collection">未选择合集</p>
+                </div>
+            </div>
+            <div class="controls">
+                <div class="progress-container">
+                    <span id="current-time">0:00</span>
+                    <div class="progress-bar">
+                        <div class="progress"></div>
+                    </div>
+                    <span id="duration">0:00</span>
+                </div>
+                <div class="buttons">
+                    <button id="shuffle" title="随机播放"><i class="fas fa-random"></i></button>
+                    <button id="prev" title="上一首"><i class="fas fa-step-backward"></i></button>
+                    <button id="play" title="播放/暂停"><i class="fas fa-play"></i></button>
+                    <button id="next" title="下一首"><i class="fas fa-step-forward"></i></button>
+                    <button id="repeat" title="循环模式"><i class="fas fa-redo"></i></button>
+                </div>
+            </div>
+            <div class="playlist">
+                <h3>播放列表</h3>
+                <ul id="songs-list"></ul>
+            </div>
+        </div>
+    </div>
+    <audio id="audio-player"></audio>
+    <script src="script.js"></script>
+</body>
+
+</html>
