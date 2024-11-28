@@ -1,0 +1,492 @@
+{
+    "songs": [
+        {
+            "title": "Nightcore - 撞进眼里的星辰【用一根生锈的指针 倒转时光的齿轮】",
+            "file": "Nightcore - 撞进眼里的星辰【用一根生锈的指针 倒转时光的齿轮】.mp3"
+        },
+        {
+            "title": "Nightcore - 吴哥窟【两个人 多挤迫 难容纳多一番秘密】",
+            "file": "Nightcore - 吴哥窟【两个人 多挤迫 难容纳多一番秘密】.mp3"
+        },
+        {
+            "title": "Nightcore - 月亮坠入深海【你沉默的表情 我装作看不清】",
+            "file": "Nightcore - 月亮坠入深海【你沉默的表情 我装作看不清】.mp3"
+        },
+        {
+            "title": "Nightcore - 爱不老【繁华世界 纷纷扰扰 遇见我最好】",
+            "file": "Nightcore - 爱不老【繁华世界 纷纷扰扰 遇见我最好】.mp3"
+        },
+        {
+            "title": "我的世界(Nightcore)【我受够这时代 人祸天灾的伤害】",
+            "file": "我的世界(Nightcore)【我受够这时代 人祸天灾的伤害】.mp3"
+        },
+        {
+            "title": "Nightcore - 坏女孩【明明是为你才会改变 却回不到从前】",
+            "file": "Nightcore - 坏女孩【明明是为你才会改变 却回不到从前】.mp3"
+        },
+        {
+            "title": "Nightcore - 童话【张开双手 变成翅膀守护你】",
+            "file": "Nightcore - 童话【张开双手 变成翅膀守护你】.mp3"
+        },
+        {
+            "title": "Nightcore - 孤单心事【一直爱着你 用我自己的方式】",
+            "file": "Nightcore - 孤单心事【一直爱着你 用我自己的方式】.mp3"
+        },
+        {
+            "title": "Nightcore - 最初的梦想【最初的梦想 紧握在手上】",
+            "file": "Nightcore - 最初的梦想【最初的梦想 紧握在手上】.mp3"
+        },
+        {
+            "title": "Nightcore - 雪落下的瞬间【才发现 你已经走远】",
+            "file": "Nightcore - 雪落下的瞬间【才发现 你已经走远】.mp3"
+        },
+        {
+            "title": "Nightcore - 年久失修的钟【我像钟摆摇摇晃晃 试探你答案】",
+            "file": "Nightcore - 年久失修的钟【我像钟摆摇摇晃晃 试探你答案】.mp3"
+        },
+        {
+            "title": "Nightcore - 自娱自乐【我学着一个人 一整天 都不失落】",
+            "file": "Nightcore - 自娱自乐【我学着一个人 一整天 都不失落】.mp3"
+        },
+        {
+            "title": "Nightcore - 求佛【我们还能不能 能不能再见面？】",
+            "file": "Nightcore - 求佛【我们还能不能 能不能再见面？】.mp3"
+        },
+        {
+            "title": "Nightcore - 时光卷轴【时光拨动竖琴 远古巨龙 侍守玫瑰】",
+            "file": "Nightcore - 时光卷轴【时光拨动竖琴 远古巨龙 侍守玫瑰】.mp3"
+        },
+        {
+            "title": "Nightcore - 晴天【但偏偏 雨渐渐 大到我看你不见】",
+            "file": "Nightcore - 晴天【但偏偏 雨渐渐 大到我看你不见】.mp3"
+        },
+        {
+            "title": "Nightcore - 夜雨晚风【我长出了一副 飞向你的羽翼】",
+            "file": "Nightcore - 夜雨晚风【我长出了一副 飞向你的羽翼】.mp3"
+        },
+        {
+            "title": "Nightcore - 云与海【如果世间万物 能跨越能相爱】",
+            "file": "Nightcore - 云与海【如果世间万物 能跨越能相爱】.mp3"
+        },
+        {
+            "title": "Nightcore - 朝汐【而我们，面朝大海~】",
+            "file": "Nightcore - 朝汐【而我们，面朝大海~】.mp3"
+        },
+        {
+            "title": "Nightcore - Upside Down【谁都没有错 机会总不够多】",
+            "file": "Nightcore - Upside Down【谁都没有错 机会总不够多】.mp3"
+        },
+        {
+            "title": "Nightcore - 海棠花未眠【若是此时你在我身边 我怎会怎会轻易失了眠】",
+            "file": "Nightcore - 海棠花未眠【若是此时你在我身边 我怎会怎会轻易失了眠】.mp3"
+        },
+        {
+            "title": "Nightcore - 记忘歌【最幸运的是我 不是我们】",
+            "file": "Nightcore - 记忘歌【最幸运的是我 不是我们】.mp3"
+        },
+        {
+            "title": "Nightcore - 鸦【自由像太真实的幻觉 让我忍不住坠跌】",
+            "file": "Nightcore - 鸦【自由像太真实的幻觉 让我忍不住坠跌】.mp3"
+        },
+        {
+            "title": "Nightcore - 凉意【也许控制情绪泛滥也算一种本领】",
+            "file": "Nightcore - 凉意【也许控制情绪泛滥也算一种本领】.mp3"
+        },
+        {
+            "title": "Nightcore - 神谕法则【我与你是命中注定 是交错的命运】",
+            "file": "Nightcore - 神谕法则【我与你是命中注定 是交错的命运】.mp3"
+        },
+        {
+            "title": "Nightcore - 有形的翅膀【隐形的翅膀 带着我飞翔】",
+            "file": "Nightcore - 有形的翅膀【隐形的翅膀 带着我飞翔】.mp3"
+        },
+        {
+            "title": "Nightcore - 所以我选择被人讨厌【我所遗失的心啊 我曾做过的梦啊】",
+            "file": "Nightcore - 所以我选择被人讨厌【我所遗失的心啊 我曾做过的梦啊】.mp3"
+        },
+        {
+            "title": "你看 世界好美(Nightcore)【因为你也很清楚 我们最初所来处】",
+            "file": "你看 世界好美(Nightcore)【因为你也很清楚 我们最初所来处】.mp3"
+        },
+        {
+            "title": "Nightcore - 安娜的橱窗【传说黑夜十二点魔法 能听见人偶说话】",
+            "file": "Nightcore - 安娜的橱窗【传说黑夜十二点魔法 能听见人偶说话】.mp3"
+        },
+        {
+            "title": "Nightcore - 七月七日晴【我的世界忽然冰天白雪】",
+            "file": "Nightcore - 七月七日晴【我的世界忽然冰天白雪】.mp3"
+        },
+        {
+            "title": "Nightcore - 最好的礼物【想要 与你度过每分每秒】",
+            "file": "Nightcore - 最好的礼物【想要 与你度过每分每秒】.mp3"
+        },
+        {
+            "title": "Nightcore - 好像失去了很多【其实早就察觉 你的态度不如从前】84019306",
+            "file": "Nightcore - 好像失去了很多【其实早就察觉 你的态度不如从前】84019306.mp3"
+        },
+        {
+            "title": "Nightcore - 纪念【我只想要拉住流年 好好地说声再见】",
+            "file": "Nightcore - 纪念【我只想要拉住流年 好好地说声再见】.mp3"
+        },
+        {
+            "title": "Nightcore - 晚风吹过落日海【晚风吹过来~吹过来~】",
+            "file": "Nightcore - 晚风吹过落日海【晚风吹过来~吹过来~】.mp3"
+        },
+        {
+            "title": "Nightcore - 时光洪流【我也想洒脱一笑 说一生那么长】",
+            "file": "Nightcore - 时光洪流【我也想洒脱一笑 说一生那么长】.mp3"
+        },
+        {
+            "title": "Nightcore - 岁月生长【黑暗中生长 倔强地发了芽】",
+            "file": "Nightcore - 岁月生长【黑暗中生长 倔强地发了芽】.mp3"
+        },
+        {
+            "title": "Nightcore - 荧光海【你的心里 闪烁着一片荧光海】",
+            "file": "Nightcore - 荧光海【你的心里 闪烁着一片荧光海】.mp3"
+        },
+        {
+            "title": "Nightcore - 飞鸟【愿星辰照亮 内心坚信的方向】",
+            "file": "Nightcore - 飞鸟【愿星辰照亮 内心坚信的方向】.mp3"
+        },
+        {
+            "title": "Nightcore - 还【明明历尽几多难关 快乐悲伤却用年月去摊还】",
+            "file": "Nightcore - 还【明明历尽几多难关 快乐悲伤却用年月去摊还】.mp3"
+        },
+        {
+            "title": "Nightcore  蒲公英的约定【而我已经分不清 你是友情 还是错过的爱情】",
+            "file": "Nightcore  蒲公英的约定【而我已经分不清 你是友情 还是错过的爱情】.mp3"
+        },
+        {
+            "title": "Nightcore - 时间过客【任由时间铭刻 那些悲欢离合】",
+            "file": "Nightcore - 时间过客【任由时间铭刻 那些悲欢离合】.mp3"
+        },
+        {
+            "title": "Nightcore - 你还好吗【听得见从前 云淡风也轻】",
+            "file": "Nightcore - 你还好吗【听得见从前 云淡风也轻】.mp3"
+        },
+        {
+            "title": "Nightcore - 辰星狂想曲【她像春风的寒意 像独角兽的小秘密】",
+            "file": "Nightcore - 辰星狂想曲【她像春风的寒意 像独角兽的小秘密】.mp3"
+        },
+        {
+            "title": "Nightcore - 不分手的恋爱【我拉着你说 爱永远一样】",
+            "file": "Nightcore - 不分手的恋爱【我拉着你说 爱永远一样】.mp3"
+        },
+        {
+            "title": "远空(Nightcore)【但愿你能够懂得 我为何这样说】",
+            "file": "远空(Nightcore)【但愿你能够懂得 我为何这样说】.mp3"
+        },
+        {
+            "title": "Nightcore - 故事还长【我们故事还长 有你就是远方】",
+            "file": "Nightcore - 故事还长【我们故事还长 有你就是远方】.mp3"
+        },
+        {
+            "title": "Nightcore - 藏匿【我彻底失去了自己】",
+            "file": "Nightcore - 藏匿【我彻底失去了自己】.mp3"
+        },
+        {
+            "title": "Nightcore - 美丽的神话【紧握双手 让我和你 再也不离分】",
+            "file": "Nightcore - 美丽的神话【紧握双手 让我和你 再也不离分】.mp3"
+        },
+        {
+            "title": "Nightcore - 凌晨等太阳【我在凌晨等太阳 在阴雨天等月亮】",
+            "file": "Nightcore - 凌晨等太阳【我在凌晨等太阳 在阴雨天等月亮】.mp3"
+        },
+        {
+            "title": "Nightcore - 大雨中【大雨中挣扎 大雨中沙哑 大雨中再犯一次傻】",
+            "file": "Nightcore - 大雨中【大雨中挣扎 大雨中沙哑 大雨中再犯一次傻】.mp3"
+        },
+        {
+            "title": "Nightcore - 忽而今夏【陪着你回家 陪着你长大 每天都记得打电话】",
+            "file": "Nightcore - 忽而今夏【陪着你回家 陪着你长大 每天都记得打电话】.mp3"
+        },
+        {
+            "title": "Nightcore - 黄昏【依然记得 从你眼中滑落的泪 伤心欲绝】",
+            "file": "Nightcore - 黄昏【依然记得 从你眼中滑落的泪 伤心欲绝】.mp3"
+        },
+        {
+            "title": "她的花(Nightcore)【他会听到吗 他会听到吗 他什么时候回家？】",
+            "file": "她的花(Nightcore)【他会听到吗 他会听到吗 他什么时候回家？】.mp3"
+        },
+        {
+            "title": "Nightcore - 沿海独白【我们的 过去回不来 未来也不在】",
+            "file": "Nightcore - 沿海独白【我们的 过去回不来 未来也不在】.mp3"
+        },
+        {
+            "title": "Nightcore - 逆流雨【追随流星陨落 追寻你的辽阔】",
+            "file": "Nightcore - 逆流雨【追随流星陨落 追寻你的辽阔】.mp3"
+        },
+        {
+            "title": "Nightcore -- 调查中【请求勿再错 最后仍磊落】",
+            "file": "Nightcore -- 调查中【请求勿再错 最后仍磊落】.mp3"
+        },
+        {
+            "title": "Nightcore - 心同此愿【有一段时光 终此一生不能忘】",
+            "file": "Nightcore - 心同此愿【有一段时光 终此一生不能忘】.mp3"
+        },
+        {
+            "title": "Nightcore - 好一点【你的心情好一点~emo少一点~】",
+            "file": "Nightcore - 好一点【你的心情好一点~emo少一点~】.mp3"
+        },
+        {
+            "title": "Nightcore - 你相信平行时空吗【而我和你啊 早各奔前程】",
+            "file": "Nightcore - 你相信平行时空吗【而我和你啊 早各奔前程】.mp3"
+        },
+        {
+            "title": "堕(Nightcore)【他 是 踏碎星河落入我梦境的幻想】",
+            "file": "堕(Nightcore)【他 是 踏碎星河落入我梦境的幻想】.mp3"
+        },
+        {
+            "title": "Nightcore - 心动节奏【永远到底多远 身边是哪一边】",
+            "file": "Nightcore - 心动节奏【永远到底多远 身边是哪一边】.mp3"
+        },
+        {
+            "title": "Nightcore - 一个人【反反复复爱到最后 只剩下我】",
+            "file": "Nightcore - 一个人【反反复复爱到最后 只剩下我】.mp3"
+        },
+        {
+            "title": "某人的光(Nightcore)【念念不忘 必有回响】",
+            "file": "某人的光(Nightcore)【念念不忘 必有回响】.mp3"
+        },
+        {
+            "title": "Nightcore - 临场发挥【和你的初次旅行 像末日逃亡】",
+            "file": "Nightcore - 临场发挥【和你的初次旅行 像末日逃亡】.mp3"
+        },
+        {
+            "title": "Nightcore - 川流入海【这世间万物都被我赋予了爱~】",
+            "file": "Nightcore - 川流入海【这世间万物都被我赋予了爱~】.mp3"
+        },
+        {
+            "title": "Nightcore - 来到你身边【风在耳边 陪着我失眠】",
+            "file": "Nightcore - 来到你身边【风在耳边 陪着我失眠】.mp3"
+        },
+        {
+            "title": "Nightcore - 不知所起【爱你不知所起 我自己都怀疑】",
+            "file": "Nightcore - 不知所起【爱你不知所起 我自己都怀疑】.mp3"
+        },
+        {
+            "title": "Nightcore - 星月神话【我的一生最美好的场景 就是遇见你】",
+            "file": "Nightcore - 星月神话【我的一生最美好的场景 就是遇见你】.mp3"
+        },
+        {
+            "title": "Nightcore - 走不出的回忆【可走到哪里 却走不出回忆】",
+            "file": "Nightcore - 走不出的回忆【可走到哪里 却走不出回忆】.mp3"
+        },
+        {
+            "title": "Nightcore - 银杏秋与你【看云朵朝日落沦陷 你和我奔赴黄昏海面】",
+            "file": "Nightcore - 银杏秋与你【看云朵朝日落沦陷 你和我奔赴黄昏海面】.mp3"
+        },
+        {
+            "title": "Nightcore - 一晃又一年【有人再见 有人再不见】",
+            "file": "Nightcore - 一晃又一年【有人再见 有人再不见】.mp3"
+        },
+        {
+            "title": "Nightcore - 如果再见【你在脑海边缘 迂迂回回地出现】",
+            "file": "Nightcore - 如果再见【你在脑海边缘 迂迂回回地出现】.mp3"
+        },
+        {
+            "title": "Nightcore - 听悲伤的情歌【还是爱你 爱你死心塌地】",
+            "file": "Nightcore - 听悲伤的情歌【还是爱你 爱你死心塌地】.mp3"
+        },
+        {
+            "title": "Nightcore - 准【原来她失约 才来到我身边】",
+            "file": "Nightcore - 准【原来她失约 才来到我身边】.mp3"
+        },
+        {
+            "title": "情歌(Nightcore)【我们在告别的演唱会 说好不再见】",
+            "file": "情歌(Nightcore)【我们在告别的演唱会 说好不再见】.mp3"
+        },
+        {
+            "title": "Nightcore - 相册【胶片拍的誓言也会变坏 困在回忆里走不出来】116815126",
+            "file": "Nightcore - 相册【胶片拍的誓言也会变坏 困在回忆里走不出来】116815126.mp3"
+        },
+        {
+            "title": "Nightcore - 疏远【眼前这个城市灯火通明 像极了我曾幻想的完美爱情】",
+            "file": "Nightcore - 疏远【眼前这个城市灯火通明 像极了我曾幻想的完美爱情】.mp3"
+        },
+        {
+            "title": "Nightcore - 下个，路口，见【秒针转动滴滴哒 小小时差滴滴哒】",
+            "file": "Nightcore - 下个，路口，见【秒针转动滴滴哒 小小时差滴滴哒】.mp3"
+        },
+        {
+            "title": "Nightcore - 滴答滴【痴情的人 终归都缺半颗心】",
+            "file": "Nightcore - 滴答滴【痴情的人 终归都缺半颗心】.mp3"
+        },
+        {
+            "title": "Nightcore - 眷【我眷恋你眸中温柔的光】",
+            "file": "Nightcore - 眷【我眷恋你眸中温柔的光】.mp3"
+        },
+        {
+            "title": "Nightcore - 拨云【我从未如此 爱过谁 一如爱你】",
+            "file": "Nightcore - 拨云【我从未如此 爱过谁 一如爱你】.mp3"
+        },
+        {
+            "title": "Nightcore - 侧脸【黄昏下模糊的侧脸 遗忘了伤痛的少年】",
+            "file": "Nightcore - 侧脸【黄昏下模糊的侧脸 遗忘了伤痛的少年】.mp3"
+        },
+        {
+            "title": "nightcore - 晚霞和少年【就让晚风拥抱这夏天 在这个有你的季节】",
+            "file": "nightcore - 晚霞和少年【就让晚风拥抱这夏天 在这个有你的季节】.mp3"
+        },
+        {
+            "title": "国Nightcore - 囚鸟【是什么让你这样迷恋这样的放肆？】86286793",
+            "file": "国Nightcore - 囚鸟【是什么让你这样迷恋这样的放肆？】86286793.mp3"
+        },
+        {
+            "title": "Nightcore - 风致【三万首情诗 三万字缺失】",
+            "file": "Nightcore - 风致【三万首情诗 三万字缺失】.mp3"
+        },
+        {
+            "title": "Nightcore - 星辰万里只有你【丈量海与天距离 曾为你逆光奔袭】",
+            "file": "Nightcore - 星辰万里只有你【丈量海与天距离 曾为你逆光奔袭】.mp3"
+        },
+        {
+            "title": "Nightcore - 云烟成雨【我多想再见你 哪怕匆匆一眼就别离】",
+            "file": "Nightcore - 云烟成雨【我多想再见你 哪怕匆匆一眼就别离】.mp3"
+        },
+        {
+            "title": "Nightcore - 约定【你我约定 难过的往事不许提】",
+            "file": "Nightcore - 约定【你我约定 难过的往事不许提】.mp3"
+        },
+        {
+            "title": "Nightcore - 可是我还没有来得及死去【如果你会点石成金的话 能教教一事无成的我吗】",
+            "file": "Nightcore - 可是我还没有来得及死去【如果你会点石成金的话 能教教一事无成的我吗】.mp3"
+        },
+        {
+            "title": "nightcore - 将有人为你坠落人间【天请放任我谋面的爱人 早一些出现】",
+            "file": "nightcore - 将有人为你坠落人间【天请放任我谋面的爱人 早一些出现】.mp3"
+        },
+        {
+            "title": "Nightcore - 爱过即可【我们的关系点到为止 就别再恋恋不舍】",
+            "file": "Nightcore - 爱过即可【我们的关系点到为止 就别再恋恋不舍】.mp3"
+        },
+        {
+            "title": "Nightcore - 第四纪·众神纪元【语焉不详笔记 有传闻隐晦提起】",
+            "file": "Nightcore - 第四纪·众神纪元【语焉不详笔记 有传闻隐晦提起】.mp3"
+        },
+        {
+            "title": "Nightcore - 漫天星辰不及你【我们共赴一场 光年的旅行】",
+            "file": "Nightcore - 漫天星辰不及你【我们共赴一场 光年的旅行】.mp3"
+        },
+        {
+            "title": "Nightcore - 裙摆与向日葵花【光影装进裙摆 你从未曾离开】",
+            "file": "Nightcore - 裙摆与向日葵花【光影装进裙摆 你从未曾离开】.mp3"
+        },
+        {
+            "title": "Nightcore - 没遇见更好【像刺猬的我再好 也做不了 你怀里的猫】",
+            "file": "Nightcore - 没遇见更好【像刺猬的我再好 也做不了 你怀里的猫】.mp3"
+        },
+        {
+            "title": "Nightcore - 这世界那么多人【晚风中闪过 几帧从前啊】",
+            "file": "Nightcore - 这世界那么多人【晚风中闪过 几帧从前啊】.mp3"
+        },
+        {
+            "title": "Nightcore - 宿命【流水落花 辜负了情】",
+            "file": "Nightcore - 宿命【流水落花 辜负了情】.mp3"
+        },
+        {
+            "title": "Nightcore - 世末积雨云【为世界终结前最后的画面 配上的将会是怎样的旁白】",
+            "file": "Nightcore - 世末积雨云【为世界终结前最后的画面 配上的将会是怎样的旁白】.mp3"
+        },
+        {
+            "title": "Nightcore - 山河万里【只想余生是你 风花雪月是你】",
+            "file": "Nightcore - 山河万里【只想余生是你 风花雪月是你】.mp3"
+        },
+        {
+            "title": "Nightcore - 特别对待【终于从你的偏爱变成例外】",
+            "file": "Nightcore - 特别对待【终于从你的偏爱变成例外】.mp3"
+        },
+        {
+            "title": "Nightcore - 我会等【相信美梦和你 总有一天会预先到达】",
+            "file": "Nightcore - 我会等【相信美梦和你 总有一天会预先到达】.mp3"
+        },
+        {
+            "title": "回到夏天(Nightcore)【说好陪我到永远 只少了一份期限】",
+            "file": "回到夏天(Nightcore)【说好陪我到永远 只少了一份期限】.mp3"
+        },
+        {
+            "title": "Nightcore - 星空之间【平凡的女孩 吟唱着 在星空之间】",
+            "file": "Nightcore - 星空之间【平凡的女孩 吟唱着 在星空之间】.mp3"
+        },
+        {
+            "title": "Nightcore - 静悄悄【世界突然变得好安静 只剩心跳的声音】",
+            "file": "Nightcore - 静悄悄【世界突然变得好安静 只剩心跳的声音】.mp3"
+        },
+        {
+            "title": "Nightcore - 来不及告别【可距离我想讨你欢心 已过了很多年】",
+            "file": "Nightcore - 来不及告别【可距离我想讨你欢心 已过了很多年】.mp3"
+        },
+        {
+            "title": "Nightcore - 我们的爱输给了现实【最后却把别人拥入怀里】",
+            "file": "Nightcore - 我们的爱输给了现实【最后却把别人拥入怀里】.mp3"
+        },
+        {
+            "title": "Nightcore - 海之境【曾经压抑颓靡 现在要你着急】",
+            "file": "Nightcore - 海之境【曾经压抑颓靡 现在要你着急】.mp3"
+        },
+        {
+            "title": "Nightcore - 尽可能美丽告别【曾和你追逐那些 热的日出冷的月】",
+            "file": "Nightcore - 尽可能美丽告别【曾和你追逐那些 热的日出冷的月】.mp3"
+        },
+        {
+            "title": "Nightcore - 白鸽【教堂的白鸽不会亲吻乌鸦】",
+            "file": "Nightcore - 白鸽【教堂的白鸽不会亲吻乌鸦】.mp3"
+        },
+        {
+            "title": "银河与星斗(Nightcore)【那时候你牵着我的手 约定来一场世界巡游】",
+            "file": "银河与星斗(Nightcore)【那时候你牵着我的手 约定来一场世界巡游】.mp3"
+        },
+        {
+            "title": "Nightcore - 最近【好几次我们抱着彼此 都是想要哭】",
+            "file": "Nightcore - 最近【好几次我们抱着彼此 都是想要哭】.mp3"
+        },
+        {
+            "title": "Nightcore - 山茶花读不懂白玫瑰【山茶花读不懂白玫瑰 北山风吹不到南山尾】",
+            "file": "Nightcore - 山茶花读不懂白玫瑰【山茶花读不懂白玫瑰 北山风吹不到南山尾】.mp3"
+        },
+        {
+            "title": "Nightcore - 旧夏未结【伏线千里   要有回音】",
+            "file": "Nightcore - 旧夏未结【伏线千里   要有回音】.mp3"
+        },
+        {
+            "title": "Nightcore - 追溯海底【可现实吞噬了你 那一双灵动的眼睛】",
+            "file": "Nightcore - 追溯海底【可现实吞噬了你 那一双灵动的眼睛】.mp3"
+        },
+        {
+            "title": "Nightcore - 不蓝海域【我眼中一片海 你却不肯蓝】",
+            "file": "Nightcore - 不蓝海域【我眼中一片海 你却不肯蓝】.mp3"
+        },
+        {
+            "title": "Nightcore - 雨下的瞬间【就当是时间 对我的考验】",
+            "file": "Nightcore - 雨下的瞬间【就当是时间 对我的考验】.mp3"
+        },
+        {
+            "title": "Nightcore - 奔向天际线【眼睛里忽闪的光 是我最初的向往】",
+            "file": "Nightcore - 奔向天际线【眼睛里忽闪的光 是我最初的向往】.mp3"
+        },
+        {
+            "title": "Nightcore - elm【我愿意陪你 淋最暖的春雨】",
+            "file": "Nightcore - elm【我愿意陪你 淋最暖的春雨】.mp3"
+        },
+        {
+            "title": "Nightcore - 烟花和天空邂逅【从今天到以后 你和我会往哪儿走？】",
+            "file": "Nightcore - 烟花和天空邂逅【从今天到以后 你和我会往哪儿走？】.mp3"
+        },
+        {
+            "title": "Nightcore - 小幸运【可我已失去为你 泪流满面 的权利】",
+            "file": "Nightcore - 小幸运【可我已失去为你 泪流满面 的权利】.mp3"
+        },
+        {
+            "title": "Nightcore - 红玫瑰【得不到的永远在骚动】",
+            "file": "Nightcore - 红玫瑰【得不到的永远在骚动】.mp3"
+        },
+        {
+            "title": "Nightcore - 等不来花开(remix)【我们的爱 就像秋叶等不到花开】",
+            "file": "Nightcore - 等不来花开(remix)【我们的爱 就像秋叶等不到花开】.mp3"
+        },
+        {
+            "title": "Nightcore——最后的旅行【命运十字路口  谢谢你曾停留】",
+            "file": "Nightcore——最后的旅行【命运十字路口  谢谢你曾停留】.mp3"
+        }
+    ]
+}
