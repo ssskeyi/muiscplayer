@@ -36,7 +36,7 @@ class MusicPlayer {
   async loadCollections() {
     try {
       // 获取合集列表
-      const collections = ["2022", "2023", "2024"]; // 这里硬编码你的合集名称
+      const collections = ["2022", "2023", "2024", "Xsxtts"]; // 这里硬编码你的合集名称
 
       for (const collection of collections) {
         const response = await fetch(`data/${collection}/songs.json`);
